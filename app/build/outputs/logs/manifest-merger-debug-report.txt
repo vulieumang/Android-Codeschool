@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Codeshool-Project\TodoApp\app\src\main\AndroidManifest.xml:2:1-20:12
+ADDED from C:\Codeshool-Project\TodoApp\app\src\main\AndroidManifest.xml:2:1-25:12
 	package
 		ADDED from C:\Codeshool-Project\TodoApp\app\src\main\AndroidManifest.xml:3:5-40
 		INJECTED from C:\Codeshool-Project\TodoApp\app\src\main\AndroidManifest.xml
@@ -14,8 +14,13 @@ ADDED from C:\Codeshool-Project\TodoApp\app\src\main\AndroidManifest.xml:2:1-20:
 		INJECTED from C:\Codeshool-Project\TodoApp\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Codeshool-Project\TodoApp\app\src\main\AndroidManifest.xml
 application
-ADDED from C:\Codeshool-Project\TodoApp\app\src\main\AndroidManifest.xml:5:5-18:19
+ADDED from C:\Codeshool-Project\TodoApp\app\src\main\AndroidManifest.xml:5:5-23:19
 MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Codeshool-Project\TodoApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Codeshool-Project\TodoApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.1.1] C:\Codeshool-Project\TodoApp\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Codeshool-Project\TodoApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Codeshool-Project\TodoApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Codeshool-Project\TodoApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.1.1] C:\Codeshool-Project\TodoApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
 	android:label
 		ADDED from C:\Codeshool-Project\TodoApp\app\src\main\AndroidManifest.xml:8:9-41
@@ -41,9 +46,27 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Codeshool-Project\TodoApp\app\src\main\AndroidManifest.xml:15:17-77
 	android:name
 		ADDED from C:\Codeshool-Project\TodoApp\app\src\main\AndroidManifest.xml:15:27-74
+activity#com.example.vince.todoapp.EditItemActivity
+ADDED from C:\Codeshool-Project\TodoApp\app\src\main\AndroidManifest.xml:18:9-21:59
+	android:label
+		ADDED from C:\Codeshool-Project\TodoApp\app\src\main\AndroidManifest.xml:20:13-61
+	android:theme
+		ADDED from C:\Codeshool-Project\TodoApp\app\src\main\AndroidManifest.xml:21:13-56
+	android:name
+		ADDED from C:\Codeshool-Project\TodoApp\app\src\main\AndroidManifest.xml:19:13-45
+activity#com.example.vince.todoapp.EditItemActivity2
+ADDED from C:\Codeshool-Project\TodoApp\app\src\main\AndroidManifest.xml:22:9-64
+	android:name
+		ADDED from C:\Codeshool-Project\TodoApp\app\src\main\AndroidManifest.xml:22:19-52
 uses-sdk
 INJECTED from C:\Codeshool-Project\TodoApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Codeshool-Project\TodoApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Codeshool-Project\TodoApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.1.1] C:\Codeshool-Project\TodoApp\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Codeshool-Project\TodoApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Codeshool-Project\TodoApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] C:\Codeshool-Project\TodoApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Codeshool-Project\TodoApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:23.1.1] C:\Codeshool-Project\TodoApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
 	android:targetSdkVersion
 		INJECTED from C:\Codeshool-Project\TodoApp\app\src\main\AndroidManifest.xml
